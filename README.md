@@ -29,16 +29,14 @@ Uncle Bob: Clean code é como pintar uma fotografia, as pessoas saberão dizer q
 
 Uncle Bob fez esta questão para alguns dos mais influentes programadores, e eu anotei alguns: 
 
-*Bjarne Stroustrup (criador do C++)* - na sua definição mencionou que clean code é elegante e que clean code faz bem uma coisa específica, clean code tem foco em apenas uma tarefa. 
+- *Bjarne Stroustrup (criador do C++)* - na sua definição mencionou que clean code é elegante e que clean code faz bem uma coisa específica, clean code tem foco em apenas uma tarefa. 
 
-*Grady Booch (autor do livro Object Oriented Analysis and Design with Applications)* - definiu clean code como sendo simples e directo, e que ler clean code é como ler uma prosa bem escrita.
+- *Grady Booch (autor do livro Object Oriented Analysis and Design with Applications)* - definiu clean code como sendo simples e directo, e que ler clean code é como ler uma prosa bem escrita.
 
-*Michel Feathers (autor do livro Working Effectively with Legacy Code)* - definiu clean code como código escrito por uma pessoa que se importa. Clean code é código que foi cuidado. 
+- *Michel Feathers (autor do livro Working Effectively with Legacy Code)* - definiu clean code como código escrito por uma pessoa que se importa. Clean code é código que foi cuidado. 
 
 Outras definições também super interessantes foram feitas. Mas todas resumiam-se em facilidade de leitura, facilidade em extensão e mudanças. 
 
-Uncle Bob encoraja-nos a seguir a regra dos rapazes escuteiros: Deixar o campo mais limpo do que encontramos.
+Uncle Bob encoraja-nos a seguir a regra dos rapazes escuteiros: **Deixar o campo mais limpo do que encontramos**. Contudo, clean code está relacionado com a nossa capacidade de sermos profissionais e cuidadosos com o código que escrevemos. É super importante lembrar que gastamos mais tempo a ler código dos que escrevendo-o. 
 
-Contudo, clean code está relacionado com a nossa capacidade de sermos profissionais e cuidadosos com o código que escrevemos. É super importante lembrar que gastamos mais tempo a ler código dos que escrevendo-o. 
-
-Clean code requer prática, e a prática faz a perfeição. Defenda a tua craft com paixão.
+> Clean code requer prática, e a prática faz a perfeição. Defenda a tua craft com paixão.
